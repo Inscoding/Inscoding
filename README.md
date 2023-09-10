@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/shivapradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shivapradeep" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shiva pradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiva pradeep" height="30" width="40" /></a>
+<a href="https://kaggle.com/shiva_pradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shiva_pradeep" height="30" width="40" /></a>
 <a href="https://instagram.com/inscoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inscoding" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shiva_pradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shiva_pradeep" height="30" width="40" /></a>
 </p>
@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inscoding&show_icons=true&locale=en" alt="inscoding" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inscoding&" alt="inscoding" /></p>
+
